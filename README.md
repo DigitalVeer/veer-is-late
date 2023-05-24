@@ -1,5 +1,3 @@
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/npm/cli/Node%20CI/latest)](https://github.com/npm/cli/actions?query=workflow%3A%22Node+CI%22+branch%3Alatest) [![Coveralls github branch](https://img.shields.io/coveralls/github/npm/cli/latest)](https://coveralls.io/github/npm/cli?branch=latest)
-
 # Calendar Commander - a Student ARR Generator
 
 Welcome to **Calendar Commander**, a compact application that provides a cleaner way to handle *schedule generation*  in React. It’s primarily focus at assisting schedule generation for University students, but can also be embedded in any existing scheduling software that needs a calendar generator. It's essentially a cleaner way to break down the ARR into a manner which simply generates suitable schedules for students .
